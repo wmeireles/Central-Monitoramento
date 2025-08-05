@@ -188,8 +188,8 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: [Willian Meireles](https://www.linkedin.com/in/willian-meireles/)
+- GitHub: [@wmeireles](https://github.com/wmeireles)
 
 ---
 
