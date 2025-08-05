@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "check_ssl": true,
+    "expected_status": 200,
+    "max_response_time": 5000,
+    "auth": null
+  },
+  {
+    "name": "GitHub API",
+    "url": "https://api.github.com",
+    "check_ssl": true,
+    "expected_status": 200,
+    "max_response_time": 3000,
+    "auth": null
+  },
+  {
+    "name": "Exemplo com Auth",
+    "url": "https://api.exemplo.com/health",
+    "check_ssl": true,
+    "expected_status": 200,
+    "max_response_time": 2000,
+    "auth": {
+      "type": "bearer",
+      "token": "seu_token_aqui"
+    }
+  }
+]

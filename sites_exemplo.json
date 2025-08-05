@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "expected_status": 200
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "expected_status": 200
+  },
+  {
+    "name": "Python.org",
+    "url": "https://www.python.org",
+    "expected_status": 200
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "expected_status": 200
+  }
+]
